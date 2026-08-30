@@ -3,7 +3,7 @@
 A conversational agent that answers founder-level business questions by querying two monday.com
 boards live — sales pipeline (**Deals**) and project delivery (**Work Orders**).
 
-**Live prototype:** [PASTE YOUR STREAMLIT URL]
+**Live prototype:** [https://skylark-bi-agent-aoqx2me7kbvpoapptdjtpr.streamlit.app/]
 **Source:** [PASTE YOUR GITHUB URL]
 **Decision log:** see `DECISION_LOG.md` / `DECISION_LOG.pdf`
 
