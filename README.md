@@ -4,7 +4,7 @@ A conversational agent that answers founder-level business questions by querying
 boards live — sales pipeline (**Deals**) and project delivery (**Work Orders**).
 
 **Live prototype:** [https://skylark-bi-agent-aoqx2me7kbvpoapptdjtpr.streamlit.app/]
-**Source:** [PASTE YOUR GITHUB URL]
+**Source:** [https://github.com/Deepika240406/skylark-bi-agent.git]
 **Decision log:** see `DECISION_LOG.md` / `DECISION_LOG.pdf`
 
 > *"How's our pipeline looking for the energy sector this quarter?"*
